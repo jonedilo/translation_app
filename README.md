@@ -1,6 +1,6 @@
 # Multilingual Text Translation App
 
-## Step 1: Sign Up for Google Cloud Translation API
+## Sign Up for Google Cloud Translation API
 
 1. Go to [Google Cloud Console](https://console.cloud.google.com/).
 2. Create a new project or select an existing project.
@@ -10,7 +10,7 @@
    - Select "JSON" format.
    - Download the credentials JSON file.
 
-## Step 2: Install Required Libraries
+## Install Required Libraries
 
 Make sure you have Streamlit and the googletrans library installed. You can install them using the following commands:
 
